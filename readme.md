@@ -194,3 +194,14 @@ print(f"- Tempo de execução Merge Sort: {tempo_merge:.3f} ms")
 - Tempo de execução Radix Sort: 0.054 ms
 - Tempo de execução Merge Sort: 0.041 ms
 ```
+
+---
+
+## 👨‍💻 Membros do Grupo
+
+* **Andrey Nagata** - RM555339
+* **Henrique Soubhia** - RM554493
+* **Oliver Kanai** - RM554954
+* **Pedro Gutierre** - RM555445
+* **William Weile** - RM555132
+
